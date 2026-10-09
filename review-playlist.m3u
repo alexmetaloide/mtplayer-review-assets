@@ -1,0 +1,8 @@
+#EXTM3U
+# Evaluation only: an unedited prerecorded film, not a live TV channel.
+# Big Buck Bunny (2008), Blender Foundation, CC BY 3.0.
+# (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
+# License: https://creativecommons.org/licenses/by/3.0/
+# Credits are preserved in the complete movie.
+#EXTINF:-1 group-title="Movies - CC BY 3.0",Big Buck Bunny - Blender Foundation
+https://github.com/alexmetaloide/mtplayer-review-assets/releases/download/v1/BigBuckBunny.mp4
